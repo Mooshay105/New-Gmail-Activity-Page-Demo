@@ -1,0 +1,206 @@
+{
+	"ip": "192.168.1.17",
+	"location": "Finland",
+	"activity": [
+		{
+			"id": 1,
+			"ip": "192.168.1.1",
+			"timeAgo": "5 minutes ago",
+			"location": "USA",
+			"deviceOS": "Windows 10",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Laptop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 2,
+			"ip": "192.168.1.2",
+			"timeAgo": "10 minutes ago",
+			"location": "USA",
+			"deviceOS": "macOS",
+			"deviceBrowser": "Safari",
+			"deviceType": "Desktop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 3,
+			"ip": "192.168.1.3",
+			"timeAgo": "15 minutes ago",
+			"location": "UK",
+			"deviceOS": "Linux",
+			"deviceBrowser": "Firefox",
+			"deviceType": "Desktop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 4,
+			"ip": "192.168.1.4",
+			"timeAgo": "20 minutes ago",
+			"location": "Germany",
+			"deviceOS": "Windows 10",
+			"deviceBrowser": "Edge",
+			"deviceType": "Tablet",
+			"isCurrentSession": false
+		},
+		{
+			"id": 5,
+			"ip": "192.168.1.5",
+			"timeAgo": "25 minutes ago",
+			"location": "Australia",
+			"deviceOS": "iOS",
+			"deviceBrowser": "Safari",
+			"deviceType": "Mobile",
+			"isCurrentSession": false
+		},
+		{
+			"id": 6,
+			"ip": "192.168.1.6",
+			"timeAgo": "30 minutes ago",
+			"location": "Japan",
+			"deviceOS": "Android",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Mobile",
+			"isCurrentSession": false
+		},
+		{
+			"id": 7,
+			"ip": "192.168.1.7",
+			"timeAgo": "35 minutes ago",
+			"location": "France",
+			"deviceOS": "Windows 10",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Laptop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 8,
+			"ip": "192.168.1.8",
+			"timeAgo": "40 minutes ago",
+			"location": "Russia",
+			"deviceOS": "Windows 7",
+			"deviceBrowser": "Firefox",
+			"deviceType": "Laptop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 9,
+			"ip": "192.168.1.9",
+			"timeAgo": "45 minutes ago",
+			"location": "China",
+			"deviceOS": "Linux",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Desktop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 10,
+			"ip": "192.168.1.10",
+			"timeAgo": "50 minutes ago",
+			"location": "Brazil",
+			"deviceOS": "Windows 8",
+			"deviceBrowser": "Edge",
+			"deviceType": "Tablet",
+			"isCurrentSession": false
+		},
+		{
+			"id": 11,
+			"ip": "192.168.1.11",
+			"timeAgo": "55 minutes ago",
+			"location": "Spain",
+			"deviceOS": "macOS",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Desktop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 12,
+			"ip": "192.168.1.12",
+			"timeAgo": "1 hour ago",
+			"location": "Portugal",
+			"deviceOS": "Windows 10",
+			"deviceBrowser": "Firefox",
+			"deviceType": "Laptop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 13,
+			"ip": "192.168.1.13",
+			"timeAgo": "1 hour 5 minutes ago",
+			"location": "USA",
+			"deviceOS": "Android",
+			"deviceBrowser": "Samsung Internet",
+			"deviceType": "Mobile",
+			"isCurrentSession": false
+		},
+		{
+			"id": 14,
+			"ip": "192.168.1.14",
+			"timeAgo": "1 hour 10 minutes ago",
+			"location": "Egypt",
+			"deviceOS": "iOS",
+			"deviceBrowser": "Safari",
+			"deviceType": "Mobile",
+			"isCurrentSession": false
+		},
+		{
+			"id": 15,
+			"ip": "192.168.1.15",
+			"timeAgo": "1 hour 15 minutes ago",
+			"location": "Italy",
+			"deviceOS": "Windows 10",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Desktop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 16,
+			"ip": "192.168.1.16",
+			"timeAgo": "1 hour 20 minutes ago",
+			"location": "Saudi Arabia",
+			"deviceOS": "Windows 8",
+			"deviceBrowser": "Edge",
+			"deviceType": "Laptop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 17,
+			"ip": "192.168.1.17",
+			"timeAgo": "1 hour 25 minutes ago",
+			"location": "Finland",
+			"deviceOS": "macOS",
+			"deviceBrowser": "Firefox",
+			"deviceType": "Desktop",
+			"isCurrentSession": true
+		},
+		{
+			"id": 18,
+			"ip": "192.168.1.18",
+			"timeAgo": "1 hour 30 minutes ago",
+			"location": "South Korea",
+			"deviceOS": "Linux",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Desktop",
+			"isCurrentSession": false
+		},
+		{
+			"id": 19,
+			"ip": "192.168.1.19",
+			"timeAgo": "1 hour 35 minutes ago",
+			"location": "Netherlands",
+			"deviceOS": "Windows 10",
+			"deviceBrowser": "Chrome",
+			"deviceType": "Tablet",
+			"isCurrentSession": false
+		},
+		{
+			"id": 20,
+			"ip": "192.168.1.20",
+			"timeAgo": "1 hour 40 minutes ago",
+			"location": "Japan",
+			"deviceOS": "Windows 7",
+			"deviceBrowser": "Explorer",
+			"deviceType": "Laptop",
+			"isCurrentSession": false
+		}
+	]
+}
